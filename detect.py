@@ -4,7 +4,7 @@
   Author  : KP
   Project : AI Object Detection (Python)
   Model   : YOLOv8s (Ultralytics - pretrained on COCO)
-
+ 
   ACCURACY IMPROVEMENTS APPLIED:
     1. Upgraded model: yolov8n → yolov8s (higher mAP)
     2. Lower CONF_THRESH: 0.45 → 0.25 (detect more objects)
