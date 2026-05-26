@@ -10,7 +10,7 @@
 pip install -r requirements.txt
 
 # 2. Run on your webcam
-python detect.py --mode webcam
+python detect.py --mode webcam 
  
 # 3. Run on an image
 python detect.py --mode image --source your_image.jpg
