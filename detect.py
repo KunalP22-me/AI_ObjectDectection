@@ -39,7 +39,7 @@ BOX_COLOR    = (0, 200, 0)     # Green bounding boxes (BGR)
 TEXT_COLOR   = (255, 255, 255) # White label text
 FONT         = cv2.FONT_HERSHEY_SIMPLEX
 
-
+ 
 # ──────────────────────────────────────────
 # HELPER – draw detections on frame
 # ──────────────────────────────────────────
