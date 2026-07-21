@@ -8,7 +8,7 @@
 ```bash
 # 1. Install dependencies
 pip install -r requirements.txt 
-
+ 
 # 2. Run on your webcam 
 python detect.py --mode webcam 
  
