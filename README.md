@@ -15,7 +15,7 @@ python detect.py --mode webcam
 # 3. Run on an image
 python detect.py --mode image --source  your_image.jpg
 ```
- 
+  
 The YOLOv8 model (~6 MB) downloads **automatically** on first run.
 
 ---
